@@ -45,6 +45,8 @@ public class MainActivity extends AppCompatActivity {
         // Now that Master branch is up to dated. Its time to add some new stuff to development branch
 
         // Now its time to commit from master
+
+       // another commit
     }
 
 }
