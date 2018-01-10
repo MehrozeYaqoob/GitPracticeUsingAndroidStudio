@@ -41,6 +41,8 @@ public class MainActivity extends AppCompatActivity {
         navigation.setOnNavigationItemSelectedListener(mOnNavigationItemSelectedListener);
 
         // This is a Development Branch Code
+
+        // Now that Master branch is up to dated. Its time to add some new stuff to development branch
     }
 
 }
